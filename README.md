@@ -39,24 +39,16 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This python project is my solution to the Rihal 2024 CodeStacker Challenge - Machine Learning.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
-* [![Python][py]][python-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+* [![Python][py]][python-url] *
+  
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -76,7 +68,6 @@ You can find all software requirements in the file "requirements.txt".
 - [ ] Creating SVM Model.
 - [ ] Evaluating the Model.
 
-See the [open issues](https://github.com/BeylasanRuzaiqi/ML_CodeStacker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +87,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
