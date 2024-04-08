@@ -7,7 +7,7 @@
   <a href="https://github.com/BeylasanRuzaiqi/ML_CodeStacker">
   </a>
 
-<h3 align="center">ML CodeStacker 2024! 🚀</h3>
+<h1 align="center">ML CodeStacker 2024! 🚀</h1>
 
   <p align="center">
     <a href="https://github.com/BeylasanRuzaiqi/ML_CodeStacker/issues">Report Bug</a>
