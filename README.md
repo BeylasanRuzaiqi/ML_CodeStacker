@@ -65,7 +65,7 @@ You can find all software requirements in the file "requirements.txt".
 - [ ] Started data exploring and creating a python virtual environment.
 - [ ] Some Data Visualizations.
 - [ ] Data Analysis and Preprocessing.
-- [ ] Creating SVM Model.
+- [ ] Creating A Naive Bayes Model.
 - [ ] Evaluating the Model.
 
 
